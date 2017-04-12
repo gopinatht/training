@@ -33,7 +33,7 @@ variable "aws_region" {
 
 variable "instance_count" {
   type    = "string"
-  default = "3"
+  default = "abcd"
 }
 
 terraform {
